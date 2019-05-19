@@ -1,3 +1,18 @@
+Copyright (c) 2019 By John Xu
+
+Updated visual studio 2017 build solution and instruction.  The original gloox.vxproj has been one way migrated to VS 2017 and soluton file
+has been created to replace the gloox.dsp workspace file.
+
+Following changes made to allow compile to pass:
+
+   1. iodata.h and iodata.cpp are added to the project
+
+
+
+
+===========original readme.win32 ===========================
+
+
 Building on Win32
 -----------------
 
